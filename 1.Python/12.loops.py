@@ -2,8 +2,8 @@ for number in range(1,11):
   if number ==5:
     break
   print(number)
-  print("---------------")
-  count = 1
+print("---------------")
+count = 1
 while count < 11:
     if count == 5:
         break
