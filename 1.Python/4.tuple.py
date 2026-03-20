@@ -1,0 +1,23 @@
+a = (1,2,3)
+print(a)
+print(type(a))
+my_tuple = ("string1", "string2", "string3")
+print(my_tuple)
+#my_tuple[1]= 6 #It is immutable
+#print(my_tuple)
+my_list = list(my_tuple) #list conversion
+print(my_list)
+t = (1, 2, 3)
+print(t[2])
+print(t[-1])
+t3 = ("apple", "banana")
+result = t3 * 3
+print("Multiplied tuple:", result) # ('apple', 'banana', 'apple', 'banana', 'apple', 'banana')
+t = (1, 2, 3)
+print(2 in t)     
+print(5 not in t)
+t = (1, 2, 3, 2, 4, 2)
+count_2 = t.count(2)
+print(count_2)
+index_2 = t.index(2)
+print("Index of first 2 in t:", index_2)

@@ -1,0 +1,21 @@
+# 09:23---> 09:43 --> working break -->
+1. Assign the integer 42 to a variable and print its type.
+2. Divide 7 by 3 and print the result and its data type.
+3. Convert the float 8.75 to an integer and print it.
+4. Multiply an int and a float (e.g., 5 * 2.5) and print the result and type.
+5. Use type casting to add string '4' and integer 3, then print the result.
+6. Create a string 'HelloWorld' and print only 'World' using slicing.
+7. Convert the string 'PYTHON' to lowercase and print it.
+8. Check if the string 'data' exists in 'data science' and print the result.
+9. Concatenate the strings 'Data' and 'Type' with a space in between.
+10. Print the length of the string 'Boolean'.
+11. Assign True to a variable and print its type.
+12. Evaluate the expression (10 > 2) and (3 == 4) and print the result.
+13. Assign None to a variable and check if it equals 0.
+14. Print the result of bool('') and bool('Python').
+15. Compare float(3.0) == int(3) and print the result.
+16. Create a list of numbers [1, 2, 3] and append 4 to it. Print the list.
+17. Print the first and last element from the list [10, 20, 30, 40].
+18. Replace the second element of the list ['a', 'b', 'c'] with 'z'.
+19. Create a tuple (1, 2, 3). Try changing its second element and observe the error.
+20. Create a dictionary {'a': 1, 'b': 2}. Add a new key 'c' with value 3 and print the dictionary.
